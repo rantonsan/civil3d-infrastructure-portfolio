@@ -1,12 +1,12 @@
 # Civil 3D Infrastructure Portfolio – Utilities, Corridors & Grading Engineering
 
-Roberto Antón – Civil 3D Engineer | BIM Specialist
+### Roberto Antón – Civil 3D Engineer | BIM Specialist
 
-Professional Profile
+### Professional Profile
 
 Civil Engineer specialized in utilities modelling, grading reconstruction and corridor development using Autodesk Civil 3D. Proven experience delivering infrastructure packages for hyperscale Data Centers and complex mountainous roadway projects across US.
 
-Tools & Environment:
+### Tools & Environment:
 
 - Autodesk Civil 3D
 - Navisworks Manage
@@ -17,7 +17,7 @@ Tools & Environment:
 - Microsoft Project Integration
 - Power BI (Model QA Dashboards)
 
-Core Technical Competencies: 
+### Core Technical Competencies: 
 
 - Surface modelling and grading optimization
 - Corridor development and roadway design
@@ -27,15 +27,15 @@ Core Technical Competencies:
 - Property Sets and BIM coordination workflows
 - Integration with Revit, Navisworks and Power BI
 
-Featured Projects:
+### Featured Projects:
 
-# 1. Data Center – Cheyenne, Wyoming (USA)
+### 1. Data Center – Cheyenne, Wyoming (USA)
 
 Client: Meta (Facebook)
 Scope: Pressure networks modelling (potable water, sanitary, storm and fire system).
 Extent: 4 km new networks + 20 km redesign due to client revisions.
 
-Technical Highlights:
+#### Technical Highlights:
 
 - Delivered under high-revision environment with multiple client-driven design updates.
 - Civil 3D Pressure Networks modelling
@@ -55,14 +55,14 @@ Plan view construction sheet extracted directly from the Civil 3D model, display
 
 Coordinated proposed surface and pressure network model showing vertical integration between grading design and underground utilities. Pipe invert levels were referenced against the grading surface to ensure slope consistency and clash-free installation across the site footprint.
 
-# 2. Mountain Access Road – Lake County, California (USA)
+### 2. Mountain Access Road – Lake County, California (USA)
 
 Client: SANDIS Engineering
 Scope: Corridor modelling and grading optimization under mountainous terrain constraints.
 
 This project involved full roadway alignment development, profile design and corridor modelling integrated with existing topography. The design required continuous revision management and dynamic labeling updates as drainage and grading conditions evolved.
 
-Technical Highlights:
+#### Technical Highlights:
 - Corridor model required continuous adjustment due to drainage-driven grading modifications.
 - Alignment creation and profile optimization
 - Corridor modelling with custom assemblies
@@ -81,13 +81,13 @@ Sheet layout key map showing structured plan production (C401–C414) for staged
 
 Plan and profile view of mountain access road developed using Civil 3D corridor modelling. The drawing illustrates horizontal alignment, vertical geometry, cut/fill transitions and comparison between existing and proposed ground at centerline. Slopes were optimized to meet design constraints under steep topographic conditions.
 
-# 3. GDCD BU1045 – Site Grading Reconstruction (As-Built Based)
+### 3. GDCD BU1045 – Site Grading Reconstruction (As-Built Based)
 
 Scope: Reconstruction of full site grading model based on as-built survey points delivered by contractor.
 
 The project required rebuilding the grading surface to match field-verified elevations while ensuring constructability and alignment with civil utilities.
 
-Technical Highlights:
+#### Technical Highlights:
 - Surface reconstruction from survey point cloud data
 - Grading redefinition based on verified field elevations
 - Platform balancing and slope validation
@@ -104,7 +104,7 @@ Integrated grading model federated in Navisworks for multidisciplinary coordinat
 
 Triangulated surface model reconstructed from as-built survey point data. The grading surface was regenerated to reflect verified field elevations, enabling slope validation, platform balancing and QA/QC comparison against contractor-delivered survey controls.
 
-Professional Approach: 
+### Professional Approach: 
 
 All projects presented were developed under consultancy environments requiring:
 
