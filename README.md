@@ -29,7 +29,7 @@ Core Technical Competencies:
 
 Featured Projects:
 
-## 1. Data Center – Cheyenne, Wyoming (USA)
+# 1. Data Center – Cheyenne, Wyoming (USA)
 
 Client: Meta (Facebook)
 Scope: Pressure networks modelling (potable water, sanitary, storm and fire system).
