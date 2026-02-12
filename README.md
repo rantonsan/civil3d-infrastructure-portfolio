@@ -29,7 +29,7 @@ Core Technical Competencies:
 
 Featured Projects:
 
-1. Data Center – Cheyenne, Wyoming (USA)
+## 1. Data Center – Cheyenne, Wyoming (USA)
 
 Client: Meta (Facebook)
 Scope: Pressure networks modelling (potable water, sanitary, storm and fire system).
@@ -55,7 +55,7 @@ Plan view construction sheet extracted directly from the Civil 3D model, display
 
 Coordinated proposed surface and pressure network model showing vertical integration between grading design and underground utilities. Pipe invert levels were referenced against the grading surface to ensure slope consistency and clash-free installation across the site footprint.
 
-2. Mountain Access Road – Lake County, California (USA)
+# 2. Mountain Access Road – Lake County, California (USA)
 
 Client: SANDIS Engineering
 Scope: Corridor modelling and grading optimization under mountainous terrain constraints.
@@ -81,7 +81,7 @@ Sheet layout key map showing structured plan production (C401–C414) for staged
 
 Plan and profile view of mountain access road developed using Civil 3D corridor modelling. The drawing illustrates horizontal alignment, vertical geometry, cut/fill transitions and comparison between existing and proposed ground at centerline. Slopes were optimized to meet design constraints under steep topographic conditions.
 
-3. GDCD BU1045 – Site Grading Reconstruction (As-Built Based)
+# 3. GDCD BU1045 – Site Grading Reconstruction (As-Built Based)
 
 Scope: Reconstruction of full site grading model based on as-built survey points delivered by contractor.
 
