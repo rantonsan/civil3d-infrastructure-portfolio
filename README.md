@@ -4,7 +4,7 @@
 
 ### Professional Profile
 
-Civil Engineer specialized in utilities modelling, grading reconstruction and corridor development using Autodesk Civil 3D. Proven experience delivering infrastructure packages for hyperscale Data Centers and complex mountainous roadway projects across US.
+Civil Engineer specialized in utilities modelling, grading reconstruction and corridor development using Autodesk Civil 3D. Proven experience delivering infrastructure packages for projects across US.
 
 ### Tools & Environment:
 
@@ -31,7 +31,6 @@ Civil Engineer specialized in utilities modelling, grading reconstruction and co
 
 ### 1. Data Center – Cheyenne, Wyoming (USA)
 
-Client: Meta (Facebook)
 Scope: Pressure networks modelling (potable water, sanitary, storm and fire system).
 Extent: 4 km new networks + 20 km redesign due to client revisions.
 
@@ -55,9 +54,8 @@ Plan view construction sheet extracted directly from the Civil 3D model, display
 
 Coordinated proposed surface and pressure network model showing vertical integration between grading design and underground utilities. Pipe invert levels were referenced against the grading surface to ensure slope consistency and clash-free installation across the site footprint.
 
-### 2. Mountain Access Road – Lake County, California (USA)
+### 2. Mountain Road – Lake County, California (USA)
 
-Client: SANDIS Engineering
 Scope: Corridor modelling and grading optimization under mountainous terrain constraints.
 
 This project involved full roadway alignment development, profile design and corridor modelling integrated with existing topography. The design required continuous revision management and dynamic labeling updates as drainage and grading conditions evolved.
